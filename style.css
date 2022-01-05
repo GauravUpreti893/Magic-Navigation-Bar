@@ -23,6 +23,7 @@ body{
     border-radius: 13px;
     padding-left:0.5rem;
     padding-right:0.5rem;
+    box-shadow:2px 5px 10px orange;
 }
 #navbar ul{
     display:flex;
