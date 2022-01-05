@@ -145,6 +145,10 @@ a:hover .text{
     .text{
         top:45%;
     }
+     .magic.active .text{
+        opacity:1;
+        transform:translateY(-1px);
+    }
 }
 @media only screen and (max-width:383px)
 {
@@ -153,6 +157,10 @@ a:hover .text{
     }
     .text{
         top:41.5%;
+    }
+     .magic.active .text{
+        opacity:1;
+        transform:translateY(-1px);
     }
 }
 
